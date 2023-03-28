@@ -32,7 +32,7 @@
 	<p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooon9254)](https://solved.ac/sooon9254)
-  <img src="http://mazandi.herokuapp.com/api?handle=sooon9254&theme=warm"/>
+<!--  <img src="http://mazandi.herokuapp.com/api?handle=sooon9254&theme=warm"/> -->
 </div><br><br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
