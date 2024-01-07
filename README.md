@@ -8,9 +8,6 @@
 <br><br>
 
 <!-- devpla's profile -->
- 
-
-
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
