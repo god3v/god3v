@@ -9,51 +9,48 @@
 
 <!-- devpla's profile -->
 
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/AWS-FFFFFF?style=flat&logo=AmazonAWS&logoColor=232F3E" />
-</div>
-<br><br>
-<div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
-	
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooon9254)](https://solved.ac/sooon9254)
 <!--  <img src="http://mazandi.herokuapp.com/api?handle=sooon9254&theme=warm"/> -->
-</div><br><br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://ryeojin.tistory.com/">
-		<img src="https://img.shields.io/badge/Tisotry-FF9800?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
-<br><br><br><br>
-<div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goryeojin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=4682B4&count_private=true" width=48% />
-</a>
-<br><br><br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoryeojin&count_bg=%234682B4&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</div>
-
+<table>
+  <tr>
+    <td rowspan="2" align="center"><b>Language</td>
+    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</td>
+    <td rowspan="8"></td>
+    <td rowspan="3" align="center"><b>Frameworks</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://camo.githubusercontent.com/2169d5c7654f7f51fe95e2d12d9a133aef82e2e4069d6feab63db784b61046e2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f3230343870782d4b6f746c696e5f49636f6e2e7376672e706e67" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Javascript</td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center"><b>Database</td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React-Native</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</b></td>
+    <td align="center"><b>Infra</td>
+    <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Oracle</td>
+    <td rowspan="2" align="center"><b>ORM</td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA/Data JPA</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
+    <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><b>CI/CD</b></td>
+    <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>GitHub Actions</b></td>
+    <td rowspan="2" align="center"><b>Tool</b></td>
+    <td><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Intellij</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Jenkins</b></td>
+    <td><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
+  </tr>
+</table>
