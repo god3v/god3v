@@ -21,13 +21,13 @@
     <td><img src="https://user-images.githubusercontent.com/112257466/209075018-0a1f7f14-a910-4d16-a4e4-51929b99e1ae.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring</b></td>
   </tr>
   <tr>
-    <td><img src="https://camo.githubusercontent.com/2169d5c7654f7f51fe95e2d12d9a133aef82e2e4069d6feab63db784b61046e2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30362f4b6f746c696e5f49636f6e2e7376672f3230343870782d4b6f746c696e5f49636f6e2e7376672e706e67" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Javascript</td>
+    <td><img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Javascript</td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
   </tr>
   <tr>
     <td rowspan="4" align="center"><b>Database</td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>React-Native</td>
+    <td><img src="https://www.svgrepo.com/show/303157/react-logo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React-Native</td>
   </tr>
   <tr>
     <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</b></td>
@@ -35,12 +35,12 @@
     <td><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>AWS</b></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Oracle</td>
+    <td><img src="https://www.svgrepo.com/show/448245/oracle.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Oracle</td>
     <td rowspan="2" align="center"><b>ORM</td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA/Data JPA</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
+    <td><img src="https://www.svgrepo.com/show/354272/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</td>
     <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
   </tr>
   <tr>
