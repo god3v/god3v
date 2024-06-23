@@ -27,7 +27,7 @@
   <tr>
     <td rowspan="4" align="center"><b>Database</td>
     <td><img src="https://user-images.githubusercontent.com/112257466/209078356-d9120e3d-9498-4ee4-a38d-139a263910f4.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
-    <td><img src="https://www.svgrepo.com/show/303157/react-logo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React-Native</td>
+    <!--<td><img src="https://www.svgrepo.com/show/303157/react-logo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React-Native</td>-->
   </tr>
   <tr>
     <td><img src="https://www.svgrepo.com/show/373824/mariadb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MariaDB</b></td>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td rowspan="2" align="center"><b>CI/CD</b></td>
-    <td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>GitHub Actions</b></td>
+    <!--<td><img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>GitHub Actions</b></td>-->
     <td rowspan="2" align="center"><b>Tool</b></td>
     <td><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="15px" alt="_icon" />&nbsp;&nbsp;<b>Intellij</b></td>
   </tr>
