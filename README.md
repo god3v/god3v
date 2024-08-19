@@ -54,11 +54,3 @@
     <td><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
   </tr>
 </table>
-
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/Goryeojin"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goryeojin&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=scss" />
-  </a>
-</p>
