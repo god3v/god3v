@@ -55,5 +55,4 @@
   </tr>
 </table>
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rgo)](https://github.com/eungyeole/velog-readme-stats)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rgo?theme=light&posts=3)
