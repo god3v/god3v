@@ -55,4 +55,4 @@
   </tr>
 </table>
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rgo?theme=light&posts=3)
+<!-- ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/rgo?theme=light&posts=3) -->
